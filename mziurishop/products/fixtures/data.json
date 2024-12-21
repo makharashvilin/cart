@@ -1,0 +1,182 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Smartwatch Series 5",
+      "description": "A stylish smartwatch with fitness tracking, heart rate monitor, and sleep analysis features.",
+      "price": 199.99,
+      "create_date": "2024-12-07T10:00:00Z",
+      "write_time": "2024-12-07T10:00:00Z",
+      "views": 150
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Wireless Bluetooth Earbuds",
+      "description": "High-quality sound with noise-canceling technology and a 10-hour battery life.",
+      "price": 49.99,
+      "create_date": "2024-12-07T10:05:00Z",
+      "write_time": "2024-12-07T10:05:00Z",
+      "views": 250
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Organic Green Tea",
+      "description": "Premium organic green tea leaves for a refreshing and healthy drink.",
+      "price": 12.99,
+      "create_date": "2024-12-07T10:10:00Z",
+      "write_time": "2024-12-07T10:10:00Z",
+      "views": 500
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "15.6\" Laptop",
+      "description": "A powerful laptop with 16GB RAM, 512GB SSD, and an Intel i7 processor.",
+      "price": 899.99,
+      "create_date": "2024-12-07T10:15:00Z",
+      "write_time": "2024-12-07T10:15:00Z",
+      "views": 75
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Stainless Steel Water Bottle",
+      "description": "BPA-free, double-walled stainless steel water bottle that keeps drinks cold for 24 hours.",
+      "price": 19.99,
+      "create_date": "2024-12-07T10:20:00Z",
+      "write_time": "2024-12-07T10:20:00Z",
+      "views": 300
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Yoga Mat (Premium)",
+      "description": "Eco-friendly, non-slip, extra-thick yoga mat perfect for all types of workouts.",
+      "price": 29.99,
+      "create_date": "2024-12-07T10:25:00Z",
+      "write_time": "2024-12-07T10:25:00Z",
+      "views": 180
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Bluetooth Portable Speaker",
+      "description": "Compact and waterproof Bluetooth speaker with 20 hours of battery life.",
+      "price": 69.99,
+      "create_date": "2024-12-07T10:30:00Z",
+      "write_time": "2024-12-07T10:30:00Z",
+      "views": 120
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Air Fryer (5L)",
+      "description": "Large-capacity air fryer with touch controls for healthier cooking.",
+      "price": 99.99,
+      "create_date": "2024-12-07T10:35:00Z",
+      "write_time": "2024-12-07T10:35:00Z",
+      "views": 50
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Gaming Mouse (RGB)",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting and high precision.",
+      "price": 29.99,
+      "create_date": "2024-12-07T10:40:00Z",
+      "write_time": "2024-12-07T10:40:00Z",
+      "views": 200
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "LED Desk Lamp with Wireless Charging",
+      "description": "Adjustable LED desk lamp with built-in wireless charging for your devices.",
+      "price": 45.99,
+      "create_date": "2024-12-07T10:45:00Z",
+      "write_time": "2024-12-07T10:45:00Z",
+      "views": 100
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Smart Thermostat",
+      "description": "Wi-Fi-enabled smart thermostat that learns your schedule and saves energy.",
+      "price": 129.99,
+      "create_date": "2024-12-07T10:50:00Z",
+      "write_time": "2024-12-07T10:50:00Z",
+      "views": 150
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Leather Wallet",
+      "description": "Genuine leather wallet with multiple card slots and a money clip.",
+      "price": 39.99,
+      "create_date": "2024-12-07T10:55:00Z",
+      "write_time": "2024-12-07T10:55:00Z",
+      "views": 350
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "Portable Power Bank (10000mAh)",
+      "description": "High-capacity portable power bank for charging your devices on the go.",
+      "price": 25.99,
+      "create_date": "2024-12-07T11:00:00Z",
+      "write_time": "2024-12-07T11:00:00Z",
+      "views": 400
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "name": "Wireless Charging Pad",
+      "description": "Sleek wireless charging pad compatible with most smartphones.",
+      "price": 19.99,
+      "create_date": "2024-12-07T11:05:00Z",
+      "write_time": "2024-12-07T11:05:00Z",
+      "views": 300
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "name": "Electric Kettle (1.7L)",
+      "description": "Fast-boiling electric kettle with an auto-shutoff function and LED indicator.",
+      "price": 29.99,
+      "create_date": "2024-12-07T11:10:00Z",
+      "write_time": "2024-12-07T11:10:00Z",
+      "views": 220
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+    <div class="col col-4">
+<img src="{{ product.image.url }}" class="card-img-top" alt="...">    </div>
+     <div class="col col-8">
+        <div class="d-flex">
+            <div>Views: {{ product.views }}</div>
+            <div class="ms-5">{{ product.create_date }}</div>
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">{{ product.name }}</h5>
+            <p class="fw-bold card-text"> {{ product.price }}$ </p>
+            <p class="card-text">{{ product.description }}</p>
+        </div>
+         <a href="{% url 'update_product' id=product.id %}" class="btn btn-primary">Update Product</a>
+         <a href="{% url 'home' %}" class="btn btn-primary">Home Page</a>
+         <a href="{% url 'delete_product' product.id %}" type="submit" class="btn btn-danger">Delete Product</a>
+    </div>
+
+         <a href="{% url 'add_product_to_cart' id=product.id %}" class="btn btn-primary">add to cart</a>
+
+    <div>
+    </div>
+</div>
+{% endblock %}
